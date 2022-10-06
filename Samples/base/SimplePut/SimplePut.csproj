@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+   <OutputType>Exe</OutputType>
+   <TargetFramework>net6.0</TargetFramework>
+   <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+   <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+   <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="amqmdnetstd">
+      <HintPath>..\bin\amqmdnetstd.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
