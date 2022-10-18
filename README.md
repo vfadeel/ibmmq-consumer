@@ -19,7 +19,7 @@ A pasta samples contém exemplos disponibilizados e desenvolvidos pela própria 
 **IBM.WMQ**: Biblioteca nativa de desenvolvimento para IBM MQ, expõe os principais serviços de forma bem básica e simples.
 
 ## Dicas
-Durante a criação do container docker, não utilizar senha como parâmetro para evitar a obrigatoriedade de autenticação durante o desenvolvimento.
+Durante a criação do container docker, não utilizar senha como parâmetro para evitar a obrigatoriedade de autenticação durante o desenvolvimento. Nessa situação, a senha para o console é usuário admin e senha passw0rd
 
 ## Links
 Links úteis que podem ser úteis durante o desenvolvimento para IBM MQ.
